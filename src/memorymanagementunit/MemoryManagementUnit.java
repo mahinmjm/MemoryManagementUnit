@@ -24,7 +24,7 @@ public class MemoryManagementUnit {
         
         Scanner sc = new Scanner(System.in);
         
-        System.out.println("Enter a logical Address:");
+        System.out.println("Enter a Logical Address (in Decimal):");
         int n = sc.nextInt();
         
         //Stack <Integer> address = new Stack<Integer>();
